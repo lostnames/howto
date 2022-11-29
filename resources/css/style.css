@@ -1,0 +1,16 @@
+*{background-color: #16123f;
+color:#FFFFFF;}
+h1 {
+  font-size: 2rem
+  color: #ffffff;
+  font-weight: 600;
+  text-align: center;
+}
+h2{font-size: 1.5rem;
+color: #FFFFFF;}
+h3{font-size: 1.3rem;
+color: #FFFFFF;}
+nav {background-color: #fba92c;
+color: #16123f;
+text-decoration: none;
+padding: 20px;}
